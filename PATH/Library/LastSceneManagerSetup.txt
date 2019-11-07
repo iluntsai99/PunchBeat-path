@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/unity POLYGON - Samurai Pack 1.0/Scenes/Demo.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
